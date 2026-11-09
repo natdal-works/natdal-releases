@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "notes": "# natdal 0.1.0\n\nThe first public release of natdal: one small app in your tray, and the extensions you switch on.\n\n## What's in it\n\n- **clipmesh** — one clipboard across your computers, text and pictures, end-to-end encrypted; send files to your own devices.\n- **inkshot** — Alt+S, drag, a few marks, Ctrl+C.\n- **dialmix** — volume and monitor brightness from the keyboard and the wheel.\n- **clickloop** — an auto clicker, and mouse and keyboard record-and-replay.\n- **tools** — keep awake, a break reminder, always on top.\n- **Command palette** — Alt+N (Option+N) to search every extension's commands.\n- **Guildlings** — your coding agents as little characters on your desktop.\n- **Agents** — every extension has a CLI and an MCP server. Agents may look by default and change nothing until you allow it.\n- **Updates** — natdal checks for new versions and installs them when you say so (Settings → Updates). Stable and Beta channels.\n- English and Korean.\n\n## Install\n\n- **Windows 10/11 (x64):** `natdal_0.1.0_x64-setup.exe`. The installer is not code-signed yet, so Windows SmartScreen shows a warning: choose **More info → Run anyway**.\n- **macOS 11+ (Apple silicon and Intel):** `natdal_0.1.0_universal.dmg`, signed and notarized.\n\nEach file has a `.sha256` next to it.\n\n## Known limits\n\n- Windows builds are not code-signed yet (certificate pending).\n\nQuestions and bug reports: support@natdal.app, or Send feedback… in the tray menu.",
+  "pub_date": "2026-11-09T05:37:14Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ2ovLzB4d1dkVWFzTHM2UHlpSWdwUVdBejJkQmpUSUlpMzZuVnpzQUJnU1VpMyttekJrN1UycjFGSE5lbFFHaldGQ29uaXFzSkNCMjZvYXdxYUlhdzlnL3dGcW9Ba2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjAyMzI0CWZpbGU6bmF0ZGFsXzAuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMApJaGMvU0NCdHNwejk5eWN0dHF1MjBmc3BobU5kcmhFZkdURnF4L1A2VmtKS1YrdWQ4YUZZaVN1dFRuVnViSjFQcjR2QUtZME96Zlh0bDE0YStuUnNCdz09Cg==",
+      "url": "https://github.com/natdal-works/natdal-releases/releases/download/v0.1.0/natdal_0.1.0_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ2ovLzB4d1dkVWVBb2hnQ1AxTlBJcHU2ZUFORkRoY2s1YjUyMUVHeStJZWQxNUhYWTFybDBMcG51ZHpCcDY2Y1lmb3lmRDlXdGx1ZHpNZHdKZHU5ZjVCTGVPVytVTHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjAwODAwCWZpbGU6bmF0ZGFsLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMApXUEo3dVpHVDFQbFBuckNlZFVTcFNmNVg1ZTdtbGRLSnljMElIdWtPNERjNjNENWFJZHNidUdUSDNrd3EybkMxaXltc2tBS0hCOVRQM2orWHc3NVJBdz09Cg==",
+      "url": "https://github.com/natdal-works/natdal-releases/releases/download/v0.1.0/natdal_0.1.0_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ2ovLzB4d1dkVWVBb2hnQ1AxTlBJcHU2ZUFORkRoY2s1YjUyMUVHeStJZWQxNUhYWTFybDBMcG51ZHpCcDY2Y1lmb3lmRDlXdGx1ZHpNZHdKZHU5ZjVCTGVPVytVTHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjAwODAwCWZpbGU6bmF0ZGFsLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMApXUEo3dVpHVDFQbFBuckNlZFVTcFNmNVg1ZTdtbGRLSnljMElIdWtPNERjNjNENWFJZHNidUdUSDNrd3EybkMxaXltc2tBS0hCOVRQM2orWHc3NVJBdz09Cg==",
+      "url": "https://github.com/natdal-works/natdal-releases/releases/download/v0.1.0/natdal_0.1.0_universal.app.tar.gz"
+    }
+  }
+}
